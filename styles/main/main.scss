@@ -1,0 +1,589 @@
+.get {
+  width: 100%;
+  height: 289px;
+  background-color: #fefec9;
+  .paragraph {
+    padding-top: 60px;
+    text-align: center;
+  }
+  .get__btn {
+    width: 159px;
+    height: 53px;
+    border: 1px solid #47474f;
+    background-color: #fefec9;
+    color: #47474f;
+    margin-top: 40px;
+    margin-left: 600px;
+  }
+}
+
+.brands {
+  padding-top: 80px;
+  .brands__h2 {
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+}
+
+.cards {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.card {
+  width: 300px;
+  height: 300px;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  background: #f5f5f5;
+  // border-radius: 30px;
+}
+
+.par14 {
+  max-width: 192px;
+  width: 100%;
+
+  color: #333333;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 18.5px;
+}
+
+.par15 {
+  padding-bottom: 30px;
+}
+.images {
+  height: 1470px;
+  margin-top: 70px;
+  background-color: #f5f5f5;
+  .project {
+    padding-top: 80px;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #333333;
+  }
+}
+
+.boxs {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.box1 {
+  .par1 {
+    width: 300px;
+    height: 85px;
+    background-color: #ffffff;
+    text-align: center;
+    flex-direction: column;
+    gap: 5px;
+    .wood {
+      padding-top: 20px;
+      padding-bottom: 5px;
+      color: #333333;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 20px;
+      letter-spacing: 0em;
+    }
+    .photo {
+      color: #333333;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 20px;
+      letter-spacing: 0em;
+      text-align: center;
+    }
+  }
+}
+
+.boxs2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.boxs3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.team {
+  padding-top: 85px;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #333333;
+}
+
+// .par3 {
+//   .swan {
+//     padding-top: 20px;
+//     padding-left: 6px;
+//     font-size: 16px;
+//     font-weight: 400;
+//     line-height: 20px;
+//     letter-spacing: 0em;
+//   }
+// }
+.peoples {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  .box1 {
+    .par3 {
+      width: 300px;
+      height: 85px;
+      background-color: #ffffff;
+      text-align: center;
+      flex-direction: column;
+      gap: 5px;
+      .ron {
+        padding-top: 20px;
+        padding-bottom: 5px;
+        color: #333333;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+      }
+      .found {
+        color: #333333;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        // text-align: center;
+      }
+    }
+  }
+}
+
+.love__message {
+  margin-top: 70px;
+  height: 500px;
+  background-color: #f5f5f5;
+  .dote {
+    margin: 52px 600px;
+  }
+}
+.message {
+  padding-top: 65px;
+  padding-left: 300px;
+  display: flex;
+  // justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+.mess-man {
+  .mess-man__text {
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    color: #333333;
+  }
+  .man__img {
+    margin-top: 25px;
+  }
+  .julli {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #ababab;
+  }
+}
+
+.mess-girl {
+  margin-left: 100px;
+  .mess-man__text {
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    color: #333333;
+  }
+  .man__img {
+    margin-top: 25px;
+  }
+  .julli {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #ababab;
+  }
+}
+
+.get-in-touch {
+  height: 515px;
+  background-color: rgb(154, 243, 243);
+  .lets {
+    padding-top: 80px;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #333333;
+  }
+}
+
+.parts {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+}
+
+.part1 {
+  .place {
+    margin-bottom: 25px;
+    margin-left: 50px;
+  }
+  .person {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #333333;
+  }
+  .street {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #212121;
+  }
+}
+
+// HEADER
+
+@media (max-width: 448px) {
+  .get {
+    padding: 15px 30px;
+    .get__btn {
+      margin-left: 400px;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+
+@media (min-width: 449px) and (max-width: 768px) {
+  .get {
+    padding: 15px 60px;
+    .get__btn {
+      margin-left: 300px;
+
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .get {
+    padding: 15px 120px;
+    .get__btn {
+      margin-left: 50px;
+
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+
+// BRANDS
+
+@media (max-width: 448px) {
+  .brands {
+    padding: 15px 30px;
+    .cards {
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+    }
+  }
+}
+
+@media (min-width: 449px) and (max-width: 768px) {
+  .brands {
+    padding: 15px 60px;
+    .cards {
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .brands {
+    padding: 15px 120px;
+    .cards {
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 22px;
+    }
+  }
+}
+
+// IMAGES
+
+@media (max-width: 448px) {
+  .images {
+    padding: 15px 30px;
+    .boxs {
+      margin-top: 80px;
+      margin-bottom: 40px;
+      width: 200px;
+      height: 200px;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+    }
+  }
+}
+
+@media (min-width: 449px) and (max-width: 768px) {
+  .images {
+    padding: 15px 60px;
+    .boxs {
+      margin-top: 90px;
+      margin-bottom: 50px;
+      width: 250px;
+      height: 250px;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .images {
+    padding: 15px 120px;
+    .boxs {
+      margin-top: 100px;
+      margin-bottom: 60px;
+      width: 300px;
+      height: 300px;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 22px;
+      justify-content: center;
+    }
+  }
+}
+
+// OUR TEAM
+
+@media (max-width: 448px) {
+  .our__team {
+    padding: 15px 30px;
+    .peoples {
+      margin-top: 80px;
+      margin-bottom: 40px;
+      width: 200px;
+      height: 200px;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+    }
+  }
+}
+
+@media (min-width: 449px) and (max-width: 768px) {
+  .our__team {
+    padding: 15px 60px;
+    .peoples {
+      margin-top: 90px;
+      margin-bottom: 50px;
+      width: 250px;
+      height: 250px;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .our__team {
+    padding: 15px 120px;
+    .peoples {
+      margin-top: 100px;
+      margin-bottom: 60px;
+      width: 300px;
+      height: 300px;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 22px;
+      justify-content: center;
+    }
+  }
+}
+
+// LOVE MASSAGE
+
+@media (max-width: 448px) {
+  .love__message {
+    padding: 15px 30px;
+    .message {
+      margin-top: 80px;
+      margin-bottom: 40px;
+      width: 200px;
+      height: 200px;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+    }
+  }
+}
+
+@media (min-width: 449px) and (max-width: 768px) {
+  .love__message {
+    padding: 15px 60px;
+    .message {
+      margin-top: 90px;
+      margin-bottom: 50px;
+      width: 250px;
+      height: 250px;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .love__message {
+    padding: 15px 120px;
+    .message {
+      margin-top: 100px;
+      margin-bottom: 60px;
+      width: 300px;
+      height: 300px;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 22px;
+      justify-content: center;
+    }
+  }
+}
+
+// GET IN TOUCH
+
+@media (max-width: 448px) {
+  .get-in-touch {
+    padding: 15px 30px;
+    .parts {
+      margin-top: 80px;
+      margin-bottom: 40px;
+      width: 200px;
+      height: 200px;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+    }
+  }
+}
+
+@media (min-width: 449px) and (max-width: 768px) {
+  .get-in-touch {
+    padding: 15px 60px;
+    .parts {
+      margin-top: 90px;
+      margin-bottom: 50px;
+      width: 250px;
+      height: 250px;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .get-in-touch {
+    padding: 15px 120px;
+    .parts {
+      margin-top: 100px;
+      margin-bottom: 60px;
+      width: 300px;
+      height: 300px;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 22px;
+      justify-content: center;
+    }
+  }
+}
